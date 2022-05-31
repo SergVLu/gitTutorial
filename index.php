@@ -6,10 +6,10 @@
 	<title>git</title>
 </head>
 <body>
-	<ol> changes for MVC
-		<li>one</li>
-		<li>two</li>
-		<li>three</li>
+	<ol> MVC
+		<li>Model</li>
+		<li>View</li>
+		<li>Controller</li>
 	</ol>
 </body>
 </html>
