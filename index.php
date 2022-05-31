@@ -6,7 +6,7 @@
 	<title>git</title>
 </head>
 <body>
-	<ol> changes
+	<ol> changes for MVC
 		<li>one</li>
 		<li>two</li>
 		<li>three</li>
